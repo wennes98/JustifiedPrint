@@ -1,0 +1,7 @@
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\bin\Debug\SplitWordsAndFillUpSpaces.exe.config
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\bin\Debug\SplitWordsAndFillUpSpaces.exe
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\bin\Debug\SplitWordsAndFillUpSpaces.pdb
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\obj\Debug\SplitWordsAndFillUpSpaces.csprojAssemblyReference.cache
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\obj\Debug\SplitWordsAndFillUpSpaces.csproj.CoreCompileInputs.cache
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\obj\Debug\SplitWordsAndFillUpSpaces.exe
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\obj\Debug\SplitWordsAndFillUpSpaces.pdb

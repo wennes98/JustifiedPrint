@@ -1,0 +1,14 @@
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\bin\Debug\JustifiedPrint.exe.config
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\bin\Debug\JustifiedPrint.exe
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\bin\Debug\JustifiedPrint.pdb
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\obj\Debug\JustifiedPrint.csproj.CoreCompileInputs.cache
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\obj\Debug\JustifiedPrint.exe
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\obj\Debug\JustifiedPrint.pdb
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\SplitWordsAndFillUpSpaces\obj\Debug\JustifiedPrint.csprojAssemblyReference.cache
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\JustifiedPrint\bin\Debug\JustifiedPrint.exe.config
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\JustifiedPrint\bin\Debug\JustifiedPrint.exe
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\JustifiedPrint\bin\Debug\JustifiedPrint.pdb
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\JustifiedPrint\obj\Debug\JustifiedPrint.csprojAssemblyReference.cache
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\JustifiedPrint\obj\Debug\JustifiedPrint.csproj.CoreCompileInputs.cache
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\JustifiedPrint\obj\Debug\JustifiedPrint.exe
+C:\Users\wenneske\source\repos\SplitWordsAndFillUpSpaces\JustifiedPrint\obj\Debug\JustifiedPrint.pdb
